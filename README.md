@@ -45,6 +45,13 @@ To train the models used in SpeedServAI, follow these steps:
 
 3. **Keypoint Detection with ResNet50 + Updated CNN**: To enhance accuracy further, SpeedServAI employs a ResNet50 architecture combined with an updated CNN on its final layer. This configuration allows for precise detection of keypoints on the court, providing detailed insights into player positioning and movement patterns.
 
+
+## SpeedServAI Demo
+
+![SpeedServAI Demo](https://github.com/user-attachments/assets/36d41dd7-8bab-4f11-b271-2da3c388d3bf)
+
+This GIF demonstrates the output of SpeedServAI in action, showcasing its capabilities in tracking tennis players , ball  and analyzing match dynamics in real-time.
+
 ## Future Scope of Improvement
 
 SpeedServAI has potential for enhancement in the following areas:
@@ -56,6 +63,7 @@ SpeedServAI has potential for enhancement in the following areas:
 2. Enhanced Keypoint Detection
 
 - **Homography for Keypoint Estimation**: Implement homography techniques to reconstruct shifted keypoints accurately. This method could improve the precision of player position detection on the court, especially in dynamic gameplay scenarios.
+
 
 
 
