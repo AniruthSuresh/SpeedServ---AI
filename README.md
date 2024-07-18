@@ -20,7 +20,6 @@ SpeedServAI is a machine learning project that tracks tennis players' speed, pos
    cd src
    python3 main.py
 
-
 ## Training
 
 To train the models used in SpeedServAI, follow these steps:
@@ -45,5 +44,19 @@ To train the models used in SpeedServAI, follow these steps:
 2. **Player Tracking with Pretrained YOLO**: Leveraging a pretrained YOLO model, SpeedServAI identifies and tracks players on the court in real-time.
 
 3. **Keypoint Detection with ResNet50 + Updated CNN**: To enhance accuracy further, SpeedServAI employs a ResNet50 architecture combined with an updated CNN on its final layer. This configuration allows for precise detection of keypoints on the court, providing detailed insights into player positioning and movement patterns.
+
+## Future Scope of Improvement
+
+SpeedServAI has potential for enhancement in the following areas:
+
+1. Improved Ball Tracking
+
+- **Larger Dataset Training**: Enhance ball tracking accuracy by training the YOLO model on a larger dataset. This would allow for smoother trajectory estimation and more robust tracking in varying conditions.
+
+2.Enhanced Keypoint Detection
+
+- **Homography for Keypoint Estimation**: Implement homography techniques to reconstruct shifted keypoints accurately. This method could improve the precision of player position detection on the court, especially in dynamic gameplay scenarios.
+
+
 
 
