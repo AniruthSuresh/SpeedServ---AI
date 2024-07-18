@@ -53,7 +53,7 @@ SpeedServAI has potential for enhancement in the following areas:
 
 - **Larger Dataset Training**: Enhance ball tracking accuracy by training the YOLO model on a larger dataset. This would allow for smoother trajectory estimation and more robust tracking in varying conditions.
 
-2.Enhanced Keypoint Detection
+2. Enhanced Keypoint Detection
 
 - **Homography for Keypoint Estimation**: Implement homography techniques to reconstruct shifted keypoints accurately. This method could improve the precision of player position detection on the court, especially in dynamic gameplay scenarios.
 
