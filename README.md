@@ -58,6 +58,5 @@ SpeedServAI has potential for enhancement in the following areas:
 - **Homography for Keypoint Estimation**: Implement homography techniques to reconstruct shifted keypoints accurately. This method could improve the precision of player position detection on the court, especially in dynamic gameplay scenarios.
 
 
-[output_video(4).zip](https://github.com/user-attachments/files/16282398/output_video.4.zip)
 
 
