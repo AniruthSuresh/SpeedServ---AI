@@ -29,7 +29,7 @@ To train the models used in SpeedServAI, follow these steps:
 
 1. Navigate to the `src/training` directory.
 2. Open and run `tennis_ball_training.ipynb`.
-3. Save the trained model as `yolo5_last` in the `src/models` directory.
+3. Save the trained model as `yolo5_last.pt` in the `src/models` directory.
 
 ### Keypoint Detection on the Court Model
 
